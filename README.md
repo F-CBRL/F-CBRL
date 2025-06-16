@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi Friends! Welcome To My Verse  👋
 
 <!--
 **F-CBRL/F-CBRL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌱 In this verse, I'm learning how to bring websites to life.
+💡 Every project here is a part of my journey — feel free to explore and connect!
