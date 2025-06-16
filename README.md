@@ -1,4 +1,4 @@
-## Hi Friends! Welcome To My Verse 👋
+## 👋 Hi Friends! Welcome To My Verse 
 
 - 🌱 In this verse, I'm learning how to bring websites to life.  
 - 💡 Every project here is a part of my journey — feel free to explore and connect!
